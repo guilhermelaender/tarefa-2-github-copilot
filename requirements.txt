@@ -1,0 +1,12 @@
+# Dependências principais do projeto
+pytest
+flake8
+black
+isort
+
+# Dependências para CI/CD
+pytest-cov
+
+# Dependências opcionais para integração contínua
+mypy
+
